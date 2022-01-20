@@ -1,0 +1,21 @@
+D:\Project VS CODE Traning\NET DAY1\bin\Debug\net6.0\appsettings.Development.json
+D:\Project VS CODE Traning\NET DAY1\bin\Debug\net6.0\appsettings.json
+D:\Project VS CODE Traning\NET DAY1\bin\Debug\net6.0\NET DAY1.exe
+D:\Project VS CODE Traning\NET DAY1\bin\Debug\net6.0\NET DAY1.deps.json
+D:\Project VS CODE Traning\NET DAY1\bin\Debug\net6.0\NET DAY1.runtimeconfig.json
+D:\Project VS CODE Traning\NET DAY1\bin\Debug\net6.0\NET DAY1.dll
+D:\Project VS CODE Traning\NET DAY1\bin\Debug\net6.0\ref\NET DAY1.dll
+D:\Project VS CODE Traning\NET DAY1\bin\Debug\net6.0\NET DAY1.pdb
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\NET DAY1.csproj.AssemblyReference.cache
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\NET DAY1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\NET DAY1.AssemblyInfoInputs.cache
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\NET DAY1.AssemblyInfo.cs
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\NET DAY1.csproj.CoreCompileInputs.cache
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\NET DAY1.MvcApplicationPartsAssemblyInfo.cache
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\scopedcss\bundle\NET DAY1.styles.css
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\NET DAY1.dll
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\ref\NET DAY1.dll
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\NET DAY1.pdb
+D:\Project VS CODE Traning\NET DAY1\obj\Debug\net6.0\NET DAY1.genruntimeconfig.cache
